@@ -1,19 +1,29 @@
 {
-  "orderId": "OC-2025-0789",
-  "supplier": "Metalúrgica Futurion",
-  "totalItems": 2,
-  "items": [
+  "purchaseOrders": [
     {
-      "partId": "PIN-16F-2024",
-      "qty": 5000,
-      "unitPrice": 4.27,
-      "status": "Aguardando Embarque"
-    },
-    {
-      "partId": "VLV-20T-2024",
-      "qty": 1200,
-      "unitPrice": 15.90,
-      "status": "Confirmado"
+      "orderId": "OC-2025-000789",
+      "buyer": "Montadora AutoPrime – Centro de Compras",
+      "totalItems": 3,
+      "orderLines": [
+        {
+          "partId": "PIN-16F-2024",
+          "quantity": 1800,
+          "unitPrice": 4.25,
+          "deliveryDate": "2025-03-14"
+        },
+        {
+          "partId": "VLV-20T-2024",
+          "quantity": 450,
+          "unitPrice": 29.90,
+          "deliveryDate": "2025-03-16"
+        },
+        {
+          "partId": "COR-ALT-01",
+          "quantity": 900,
+          "unitPrice": 12.50,
+          "deliveryDate": "2025-03-15"
+        }
+      ]
     }
   ]
 }
