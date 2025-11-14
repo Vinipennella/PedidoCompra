@@ -1,0 +1,19 @@
+{
+  "orderId": "OC-2025-0789",
+  "supplier": "Metalúrgica Futurion",
+  "totalItems": 2,
+  "items": [
+    {
+      "partId": "PIN-16F-2024",
+      "qty": 5000,
+      "unitPrice": 4.27,
+      "status": "Aguardando Embarque"
+    },
+    {
+      "partId": "VLV-20T-2024",
+      "qty": 1200,
+      "unitPrice": 15.90,
+      "status": "Confirmado"
+    }
+  ]
+}
